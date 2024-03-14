@@ -1,0 +1,1 @@
+Una backdoor è una via di accesso "alternativa" a un determinato sistema informatico, per esempio un sito internet, un software ecc, questo avviene sfruttandone le vulnerabilità, questo permette quindi di accedere senza autorizzazioni a un determinato servizio, accedere a file riservati o immettere software dannoso nel sistema. 
